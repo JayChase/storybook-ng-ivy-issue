@@ -8,7 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:all": "ng build lib-one && ng build lib-two && ng build web-app"
+    "build:all": "ng build lib-one && ng build lib-two && ng build web-app",
+    "storybook": "start-storybook"
   },
   "private": true,
   "dependencies": {
